@@ -1,1 +1,1 @@
-[To see my resume click here](https://u-uysal.github.io/Resume/index.html)
+[To see my resume click here](https://u-uysal.github.io/Resume/)
